@@ -1,0 +1,1 @@
+/Users/divyanshvn/agent-dir/new-bevy-game/target/wasm32-unknown-unknown/release/new-bevy-game.wasm: /Users/divyanshvn/agent-dir/new-bevy-game/src/main.rs /Users/divyanshvn/agent-dir/new-bevy-game/src/player.rs

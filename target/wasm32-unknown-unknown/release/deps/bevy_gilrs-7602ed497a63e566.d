@@ -1,0 +1,10 @@
+/Users/divyanshvn/agent-dir/new-bevy-game/target/wasm32-unknown-unknown/release/deps/bevy_gilrs-7602ed497a63e566.d: /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_gilrs-0.19.0/src/lib.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_gilrs-0.19.0/src/converter.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_gilrs-0.19.0/src/gilrs_system.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_gilrs-0.19.0/src/rumble.rs
+
+/Users/divyanshvn/agent-dir/new-bevy-game/target/wasm32-unknown-unknown/release/deps/libbevy_gilrs-7602ed497a63e566.rlib: /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_gilrs-0.19.0/src/lib.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_gilrs-0.19.0/src/converter.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_gilrs-0.19.0/src/gilrs_system.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_gilrs-0.19.0/src/rumble.rs
+
+/Users/divyanshvn/agent-dir/new-bevy-game/target/wasm32-unknown-unknown/release/deps/libbevy_gilrs-7602ed497a63e566.rmeta: /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_gilrs-0.19.0/src/lib.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_gilrs-0.19.0/src/converter.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_gilrs-0.19.0/src/gilrs_system.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_gilrs-0.19.0/src/rumble.rs
+
+/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_gilrs-0.19.0/src/lib.rs:
+/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_gilrs-0.19.0/src/converter.rs:
+/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_gilrs-0.19.0/src/gilrs_system.rs:
+/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_gilrs-0.19.0/src/rumble.rs:

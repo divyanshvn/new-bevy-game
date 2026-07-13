@@ -1,0 +1,11 @@
+/Users/divyanshvn/agent-dir/new-bevy-game/target/debug/deps/arrayvec-9c4f13d4c2053927.d: /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/lib.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/arrayvec_impl.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/arrayvec.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/array_string.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/char.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/errors.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/utils.rs
+
+/Users/divyanshvn/agent-dir/new-bevy-game/target/debug/deps/libarrayvec-9c4f13d4c2053927.rmeta: /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/lib.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/arrayvec_impl.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/arrayvec.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/array_string.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/char.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/errors.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/utils.rs
+
+/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/lib.rs:
+/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/arrayvec_impl.rs:
+/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/arrayvec.rs:
+/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/array_string.rs:
+/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/char.rs:
+/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/errors.rs:
+/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.7.7/src/utils.rs:
