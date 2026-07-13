@@ -73,10 +73,7 @@ impl Plugin for HelloPlugin {
 fn main() {
     App::new()
         .insert_resource(ClearColor(Color::WHITE))
-        .add_plugins(DefaultPlugins.set(AssetPlugin {
-            file_path: "src/assets".into(),
-            ..default()
-        }))
+        .add_plugins(DefaultPlugins)
         .add_systems(Startup, setup_camera)
         .add_plugins(PlayerPlugin) // Update this line
         .run();
