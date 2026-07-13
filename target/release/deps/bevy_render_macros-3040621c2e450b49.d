@@ -1,9 +1,0 @@
-/Users/divyanshvn/agent-dir/new-bevy-game/target/release/deps/bevy_render_macros-3040621c2e450b49.d: /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_render_macros-0.19.0/src/lib.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_render_macros-0.19.0/src/as_bind_group.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_render_macros-0.19.0/src/extract_component.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_render_macros-0.19.0/src/extract_resource.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_render_macros-0.19.0/src/specializer.rs
-
-/Users/divyanshvn/agent-dir/new-bevy-game/target/release/deps/libbevy_render_macros-3040621c2e450b49.dylib: /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_render_macros-0.19.0/src/lib.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_render_macros-0.19.0/src/as_bind_group.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_render_macros-0.19.0/src/extract_component.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_render_macros-0.19.0/src/extract_resource.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_render_macros-0.19.0/src/specializer.rs
-
-/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_render_macros-0.19.0/src/lib.rs:
-/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_render_macros-0.19.0/src/as_bind_group.rs:
-/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_render_macros-0.19.0/src/extract_component.rs:
-/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_render_macros-0.19.0/src/extract_resource.rs:
-/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bevy_render_macros-0.19.0/src/specializer.rs:

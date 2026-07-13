@@ -1,8 +1,0 @@
-/Users/divyanshvn/agent-dir/new-bevy-game/target/debug/deps/objc2_quartz_core-c4f2488dd26c5ee2.d: /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.3.2/src/lib.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.3.2/src/generated/mod.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.3.2/src/generated/CALayer.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.3.2/src/generated/CAMetalLayer.rs
-
-/Users/divyanshvn/agent-dir/new-bevy-game/target/debug/deps/libobjc2_quartz_core-c4f2488dd26c5ee2.rmeta: /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.3.2/src/lib.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.3.2/src/generated/mod.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.3.2/src/generated/CALayer.rs /Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.3.2/src/generated/CAMetalLayer.rs
-
-/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.3.2/src/lib.rs:
-/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.3.2/src/generated/mod.rs:
-/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.3.2/src/generated/CALayer.rs:
-/Users/divyanshvn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-quartz-core-0.3.2/src/generated/CAMetalLayer.rs:

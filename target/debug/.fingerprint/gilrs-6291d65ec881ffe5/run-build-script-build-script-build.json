@@ -1,1 +1,0 @@
-{"rustc":2179919275645516985,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[3047484726529685922,"build_script_build",false,367981654494863800]],"local":[{"RerunIfChanged":{"output":"debug/build/gilrs-6291d65ec881ffe5/output","paths":["SDL_GameControllerDB/gamecontrollerdb.txt"]}}],"rustflags":[],"config":0,"compile_kind":0}
